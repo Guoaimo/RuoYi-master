@@ -9,7 +9,7 @@
 
     <name>ruoyi</name>
     <url>http://www.jinlaohei.com</url>
-    <description>老郭管理系统</description>
+    <description>郭爱默管理系统</description>
     
     <properties>
         <ruoyi.version>4.7.6</ruoyi.version>
